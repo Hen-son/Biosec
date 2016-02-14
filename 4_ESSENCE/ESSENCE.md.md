@@ -1,0 +1,4 @@
+
+## Fallbeispiel ESSENCE
+
+Syndromic Surveillance

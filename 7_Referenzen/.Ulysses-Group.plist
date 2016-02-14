@@ -7,7 +7,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>ESSENCE.md.md</string>
+			<string>Literatur.md.md</string>
+		</array>
+		<array>
+			<string>Biosicherheit.bib</string>
 		</array>
 	</array>
 </dict>

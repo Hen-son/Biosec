@@ -4,5 +4,11 @@
 <dict>
 	<key>createMarkedFile</key>
 	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>SmartCity.md.md</string>
+		</array>
+	</array>
 </dict>
 </plist>
